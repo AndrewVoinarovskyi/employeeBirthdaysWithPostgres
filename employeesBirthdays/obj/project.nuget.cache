@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JP5TGf0OWQGDO+XeTI0lIG+SPYn/F52UFQefLUEb3oDtM+ulAIZqyzOM7AjRcnjF5qaIFPVC4t3bjzTVi7OdnA==",
+  "success": true,
+  "projectFilePath": "/home/intern/projects/employeesBirthdays/employeesBirthdays.csproj",
+  "expectedPackageFiles": [
+    "/home/intern/.nuget/packages/npgsql/5.0.4/npgsql.5.0.4.nupkg.sha512",
+    "/home/intern/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
